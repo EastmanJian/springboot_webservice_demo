@@ -4,8 +4,8 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>ws.demo</groupId>
-	<artifactId>webserv</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>CountriesWebServiceDemo</artifactId>
+	<version>0.0.1</version>
 	<packaging>jar</packaging>
 	<!-- packaging>war</packaging -->
 
